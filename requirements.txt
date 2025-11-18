@@ -1,0 +1,4 @@
+groq
+dotenv
+googleapiclient
+google-auth-oauthlib
